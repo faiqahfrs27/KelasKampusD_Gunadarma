@@ -1,5 +1,6 @@
 # Ruang Kelas Kampus D Menggunakan Blender
-![image](https://github.com/faiqahfrs27/KelasKampusD_Gunadarma/assets/106545788/fbb479ee-3631-49c4-a366-51e79f01a3df)
+<img width="601" alt="Screenshot_Kelas Kampus D" src="https://github.com/faiqahfrs27/KelasKampusD_Gunadarma/assets/106545788/720455a6-5f4b-4f04-897a-6ea8bdb6d2b4">
+
 ## Nama Anggota Kelompok : 
 1. Faiqah Farras F. (50420440)
 2. Ichwan Habibi (50420564)
