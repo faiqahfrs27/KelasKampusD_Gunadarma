@@ -13,4 +13,3 @@ Kampus D Gunadarma merupakan salah satu lingkungan kampus yang memiliki banyak g
 ![image](https://github.com/faiqahfrs27/KelasKampusD_Gunadarma/assets/106545788/03edca60-3aa6-4415-8303-5fdffa6a33bf)
 ## 2. Gambar Referensi
 ![image](https://github.com/faiqahfrs27/KelasKampusD_Gunadarma/assets/106545788/09127898-e65e-427b-90b7-bbaf5f944262)
-## 3. 
